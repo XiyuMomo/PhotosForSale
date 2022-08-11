@@ -1,4 +1,5 @@
 # PhotosForSale
+# 推特已被冻结，有事联系qq2624725830
 1. 收款码
     - 微信  
     ![微信收款码](https://github.com/XiyuMomo/PhotosForSale/blob/main/ReadMeImages/wechat.png)
