@@ -1,6 +1,6 @@
 # PhotosForSale
 1. 收款码
-    - 微信
+    - 微信  
     ![微信收款码](https://github.com/XiyuMomo/PhotosForSale/blob/main/ReadMeImages/wechat.png)
     - 支付宝
 2. 支付方式
