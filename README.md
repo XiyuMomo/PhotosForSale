@@ -2,7 +2,8 @@
 1. 收款码
     - 微信  
     ![微信收款码](https://github.com/XiyuMomo/PhotosForSale/blob/main/ReadMeImages/wechat.png)
-    - 支付宝
+    - 支付宝  
+    ![支付宝收款码](https://github.com/XiyuMomo/PhotosForSale/blob/main/ReadMeImages/alipay.png)
 2. 支付方式
     - 首先在付款时备注自己的邮箱
     - 然后将所想购买的图包名称写在备注中或使用备注的邮箱发送至xiyumomo@yeah.net
