@@ -10,4 +10,4 @@
     - 价格为[图包目录](https://github.com/XiyuMomo/PhotosForSale/tree/main/%E5%9B%BE%E5%8C%85%E7%9B%AE%E5%BD%95)中所标价格
 3. 收货方式
     - 通过邮箱发送百度网盘链接至付款时的备注邮箱
-    - 付款后24h内未收到的请在推特上联系我
+    - 付款后24h内未收到的请在推特上联系我（[@xiyumomo02](https://twitter.com/XiyuMomo02)）
